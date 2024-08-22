@@ -259,7 +259,7 @@ Taxa tratamento = 0.1177
 
 Teste z de diferença entre proporções para duas amostras.
 
-z = $\frac{( \hat{p}_{2} - \hat{p}_{1} ) - ( p2 - p1 )}{\sqrt{ \bar{p}*\bar{q} * ( \frac{1}{n_{1}}+\frac{1}{n_{2}}) }}$
+$z = \frac{( \hat{p}_{2} - \hat{p}_{1} ) - ( p2 - p1 )}{\sqrt{ \bar{p}*\bar{q} * ( \frac{1}{n_{1}}+\frac{1}{n_{2}}) }}$
 
 <i>**Verificar se a diferença entre as taxas de conversões é estatisticamente significativa.**</i>
 
