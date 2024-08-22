@@ -172,7 +172,7 @@ O teste utilizou duas amostras: a amostra do grupo de controle, composta por usu
 
 <i>**Hipótese Nula**</i>
 
-H0: $ p_{1} \ge p_{2}$ : A conversão da página de controle é maior ou igual a da página nova.
+H0: $p_{1} \ge p_{2}$ : A conversão da página de controle é maior ou igual a da página nova.
 
 * Isso significa que a proporção de conversão no grupo de controle ( 𝑝1 - página antiga )  é maior ou igual à proporção de conversão no grupo de tratamento ( p2 - página nova ).
 
@@ -180,7 +180,7 @@ H0: $ p_{1} \ge p_{2}$ : A conversão da página de controle é maior ou igual a
 
 <i>**Hipótese Alternativa**</i>
 
-H1: $ p_{1} < p_{2}$ : A conversão da página de controle é menor a da página de tratamento.
+H1: $p_{1} < p_{2}$ : A conversão da página de controle é menor a da página de tratamento.
 
 * Isso significa que a proporção de conversão no grupo de controle ( 𝑝1 - página antiga ) é menor do que a proporção de conversão no grupo de tratamento ( 𝑝2 - página nova ).
 
