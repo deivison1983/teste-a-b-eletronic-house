@@ -24,7 +24,7 @@ O projeto está estruturado nos seguintes passos:
 
 A Electronic House é uma loja online especializada em produtos de informática para residências e escritórios. No último ano, o faturamento total da empresa foi de 16 bilhões de reais. Os clientes podem adquirir no site diversos itens, como mouses, monitores, teclados, computadores, laptops, cabos HDMI, fones de ouvido, webcams, entre outros, e recebê-los no conforto de suas casas.
 
-Após analisar as vendas do último ano, o time de Data Analytics constatou que o tecladoASUS ROG Strix Flare II8 foi responsável por 1% de todo o faturamento. Com base no histórico, verificou-se que esse produto além de apresentar uma boa taxa de conversão também possui uma margem de lucro satisfatória. A equipe de produtos da empresa decidiu criar uma estratégia para explorar o potencial de vendas doASUS ROG Strix Flare II8. Considerando essa oportunidade de negócio, o gerente de produto solicitou à equipe de designers de UX o desenvolvimento de uma nova página de vendas, com o objetivo de aumentar a taxa de conversão desse teclado no site.
+Após analisar as vendas do último ano, o time de Data Analytics constatou que o teclado ASUS ROG Strix Flare II8 foi responsável por 1% de todo o faturamento. Com base no histórico, verificou-se que esse produto além de apresentar uma boa taxa de conversão também possui uma margem de lucro satisfatória. A equipe de produtos da empresa decidiu criar uma estratégia para explorar o potencial de vendas doASUS ROG Strix Flare II8. Considerando essa oportunidade de negócio, o gerente de produto solicitou à equipe de designers de UX o desenvolvimento de uma nova página de vendas, com o objetivo de aumentar a taxa de conversão desse teclado no site.
 
 <img src="imagens_readme/asus_rog_strix_flare.jpg">
 
@@ -280,7 +280,7 @@ H1: $p_{1} < p_{2}$ : A conversão da página de controle é menor que a da pág
 
 <i>**Interpretação e tomada de decisão**</i>
 
-Se o p-valor < 0.05: Rejeita a H0
+Se o p-valor < 0.05: Rejeita H0
 
 Se o p-valor > 0.05: Não rejeita H0
 
