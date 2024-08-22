@@ -243,11 +243,13 @@ Taxa = Nº de conversões / Total de clientes da amostra do grupo
 **Grupo controle**
 
 Taxa controle = 412 conversões / 3492 total de clientes da amostra
+
 Taxa controle = 0.1180
 
 **Grupo de tratamento**
 
 Taxa tratamento = 411 conversões / 3492 total de clientes da amostra
+
 Taxa tratamento = 0.1177
 
 
@@ -272,9 +274,9 @@ Cálculo da estatística do teste e do p-valor:
 
 <i>**Recapitulando as hipóteses**</i>
 
-H0: $ p_{1} \ge p_{2}$ : A conversão da página de controle é maior ou igual a da página nova.
+H0: $p_{1} \ge p_{2}$ : A conversão da página de controle é maior ou igual a da página nova.
 
-H1: $ p_{1} < p_{2}$ : A conversão da página de controle é menor que a da página de tratamento.
+H1: $p_{1} < p_{2}$ : A conversão da página de controle é menor que a da página de tratamento.
 
 <i>**Interpretação e tomada de decisão**</i>
 
