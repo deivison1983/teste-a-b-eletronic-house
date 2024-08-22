@@ -263,7 +263,7 @@ $z=\frac{(\hat{p}_{2}-\hat{p}_{1})-(p2-p1)}{\sqrt{\bar{p}*\bar{q}*(\frac{1}{n_{1
 
 $z=\frac{( \hat{p_{2}} - \hat{p_{1}} ) - ( p2 - p1 )}{\sqrt{ \bar{p}*\bar{q}  * ( \frac{1}{ n_{1} } + \frac{1}{ n_{2} } ) }}$
 
-$\sqrt{ \bar{p}*\bar{q}  * ( \frac{1}{ n_{1} } + \frac{1}{ n_{2} } ) }$
+## $\sqrt{ \bar{p}*\bar{q}  * ( \frac{1}{ n_{1} } + \frac{1}{ n_{2} } ) }$
 
 $( \hat{p_{2}} - \hat{p_{1}} ) - ( p2 - p1 )$
 
