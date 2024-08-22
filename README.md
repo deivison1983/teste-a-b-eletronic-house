@@ -241,10 +241,12 @@ O processo de amostragem realizado foi aleatório sem reposição das observaç�
 Taxa = Nº de conversões / Total de clientes da amostra do grupo
 
 **Grupo controle**
+
 Taxa controle = 412 conversões / 3492 total de clientes da amostra
 Taxa controle = 0.1180
 
 **Grupo de tratamento**
+
 Taxa tratamento = 411 conversões / 3492 total de clientes da amostra
 Taxa tratamento = 0.1177
 
